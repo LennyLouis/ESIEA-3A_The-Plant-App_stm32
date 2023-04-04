@@ -4,7 +4,7 @@ Ce projet a été réalisé en troisième année de formation d'ingénieur par a
 Lorsque nous avons appris que nous devrions faire un projet d'électronique, j'ai tout de suite eu l'idée de faire un pot de fleurs connecté, car j'avais cette problématique avec mes plantes. Étant en alternance lorsque je ne suis pas à mon appartement mes plantes ne peuvent être arrosée.
 L'objectif était de pouvoir créer un prototype permettant de vérifier l'état de santé de la plante avec le taux d'humidité de la terre, la température de la pièce ainsi que le taux d'ensoleillement. De plus, il devait être possible de réaliser un arrosage à distance. "À distance", veux dire qu'il fallait une interconnexion avec une interface web, il fallait donc une connexion wifi sur le et une page web récupérant ces infos.
 
-Pour atteindre cet objectif, nous avons alors, avec Jonas, réaliser une page web avec NodeJS et express pour la partie API et NodeJS avec ReactJS pour la partie interface.
+Pour atteindre cet objectif, nous avons alors, avec Jonas, réalisé une page web avec NodeJS et express pour la partie API et NodeJS avec ReactJS pour la partie interface.
 ![Interface web](.assets/img/IMG_4795.JPEG)
 
 Concernant la communication entre la carte et l'api, nous avons choisi d'utiliser le protocole MQTT, on a donc mis en place un broker MQTT (Mosquitto) sur une serveur Linux herbergé.
