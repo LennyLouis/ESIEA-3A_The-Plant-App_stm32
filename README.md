@@ -22,7 +22,7 @@ Lors de cette fameuse semaine de TP, il a fallu connecter tous les capteurs à l
 | **Photorésistance** | Donne la luminosité | Analogique | La tension à la borne de cette résistance augmente si la luminosité augmente et diminue si la luminosité diminue. |
 | **Pompe Submersible 3-5V** | Arroser la plante | Numérique | Ce moteur est actionné par un transistor sur un circuit annexe, car le rayonnement affecte le circuit principal |
 
-![Photo du montage électronique zoomé](.assets/img/IMG_4789-2.JPEG)
+![Photo du montage électronique zoomé](.assets/img/IMG_4789-2.jpeg)
 
 ![Photo du montage électronique](.assets/img/IMG_4789.JPEG)
 
