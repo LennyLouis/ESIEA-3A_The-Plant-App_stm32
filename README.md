@@ -31,6 +31,7 @@ Il était demandé dans ce TP d'avoir une communication dans une console par le 
 ![Console de commande du STM32](.assets/img/IMG_4796.JPEG)
 
 Ce projet aura été terminé à temps et rendu 90% fonctionnel, en effet nous n'avons pas réussi à réceptionner sur le STM32 les publications MQTT, la communication uart en réception nous a posé problème.
+L'enseignant nous à tout de même attribué la note de 18/20 au regarde du travail et de l'implication fournie.
 
 Voici quelques photos du projet fini.
 
