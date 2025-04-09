@@ -1,14 +1,8 @@
 **Choose your language:**  
 <p>
-  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/">
-    <img src="https://img.shields.io/badge/lang-fr-blue.svg" />
-  </a>
-  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/blob/main/README.en.md">
-    <img src="https://img.shields.io/badge/lang-en-red.svg" />
-  </a>
-  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/blob/main/README.es.md">
-    <img src="https://img.shields.io/badge/lang-es-yellow.svg" />
-  </a>
+  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/"><img src="https://img.shields.io/badge/lang-fr-blue.svg" /></a>
+  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/blob/main/README.en.md"><img src="https://img.shields.io/badge/lang-en-red.svg" /></a>
+  <a href="https://github.com/LennyLouis/ESIEA-3A_The-Plant-App_stm32/blob/main/README.es.md"><img src="https://img.shields.io/badge/lang-es-yellow.svg" /></a>
 </p>
 
 # The Plant App
